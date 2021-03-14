@@ -100,7 +100,7 @@
 * [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
 * [_L'encyclopédie de la guitare_ par Christian Séguret](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
-* [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare!](https://fr.ulule.com/la-chelouterie-guitaristique/)
+* [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
 
 ## Traitements audio
 
