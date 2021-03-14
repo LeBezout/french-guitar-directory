@@ -138,7 +138,7 @@
 
 ## Généralistes, revendeurs, importateurs
 
-* [Woodbrass]((https://www.woodbrass.com/)
+* [Woodbrass](https://www.woodbrass.com/)
 * [Algam WebStore](https://www.algam-webstore.fr/)
 * [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
 * [Hurricane Music](https://hurricanemusic.fr/)
