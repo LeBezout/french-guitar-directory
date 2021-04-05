@@ -17,7 +17,7 @@
   * [Câbles et Jack](#câbles-et-jack)
   * [Produits d'entretien](#produits-dentretien)
 * [Livres et Théorie musicale](#livres-et-théorie-musicale)
-* [Traitement audio](#traitements-audio)
+* [Traitements audio](#traitements-audio)
 * [VOD](#vod)
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
 * [Pièces détachées](#pièces-détachées)
@@ -80,7 +80,7 @@
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/Pages/FR/TubePlayer.html)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
-* TODO Bientôt ? "MFX Audio"
+* [MFX Audio](https://mfx-audio.com/)
 
 ## Accessoires
 
