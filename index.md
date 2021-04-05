@@ -23,6 +23,8 @@
 * [Pièces détachées](#pièces-détachées)
 * [Généralistes, revendeurs, importateurs](#généralistes-revendeurs-importateurs)
 
+:bulb: [... ou accès par ordre alphabétique](directory.md)
+
 ## Guitares / Lutherie
 
 * [Vigier](https://www.vigierguitars.com/fr/)
@@ -140,7 +142,7 @@
 
 ## Formations et cours (skype, ...)
 
-* [Sebastien Zunino](https://www.sebastienzunino.com/)
+* [Sébastien Zunino](https://www.sebastienzunino.com/)
 * [Guitar Plug N' Play](https://www.guitarplugandplay.com/formations/)
 * [MrGalagomusic](https://www.galagomusic.com/apprendre-la-guitare/)
 * [NeoGeofanatic](https://www.youtube.com/user/NeoGeofanatic/about)
