@@ -111,6 +111,7 @@
 * [Heptode](https://www.heptode.com/fr/amplosion.php)
 * [Audiophonics](https://www.audiophonics.fr/fr/)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
+* [Samples batterie PureTones](https://puretones.net/)
 
 ## VOD
 
