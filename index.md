@@ -1,6 +1,27 @@
-# Annuaire des artisants, fabriquants et vendeurs ou re-vendeurs français autour de la guitare
+# Annuaire des artisants, fabriquants et vendeurs ou re-vendeurs français autour de la guitare et de la musique
 
 **But de la page** : _mettre en avant l'artisanat français ou faire découvrir des artisants et des entreprises française dans le domaine de la guitare._
+
+**Sommaire**
+
+* [Guitares / Lutherie](#guitares--lutherie)
+* [Amplis](#amplis)
+* [Micros](#micros)
+* [Pédales d'effet](#pédales-deffet)
+* [Accessoires](#accessoires)
+  * [Alimentations](#alimentations)
+  * [Pedalboards](#pedalboards)
+  * [Médiators](#médiators)
+  * [Cordes](#cordes)
+  * [Sangles](#sangles)
+  * [Câbles et Jack](#câbles-et-jack)
+  * [Produits d'entretien](#produits-dentretien)
+* [Livres et Théorie musicale](#livres-et-théorie-musicale)
+* [Traitement audio](#traitements-audio)
+* [VOD](#vod)
+* [Formations et cours (skype, ...)](#formations-et-cours-skype-)
+* [Pièces détachées](#pièces-détachées)
+* [Généralistes, revendeurs, importateurs](#généralistes-revendeurs-importateurs)
 
 ## Guitares / Lutherie
 
