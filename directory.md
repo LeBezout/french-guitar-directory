@@ -40,6 +40,7 @@
 ## D
 
 * [Darius Guitarz](https://www.dariusguitarz.com/)
+* [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
 * [Dewitte-Wired](https://www.dewitte-wired.fr/)
 * [Doc Music Station](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
@@ -48,6 +49,7 @@
 
 ## E
 
+* [Echo d'artistes](https://www.echodartistes.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Emma Music](https://www.emma-music.com/)
 * [Enkore Arts](https://enkore-arts.net/)
