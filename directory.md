@@ -50,6 +50,7 @@
 
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Emma Music](https://www.emma-music.com/)
+* [Enkore Arts](https://enkore-arts.net/)
 * [Euterpe Custom Shop](https://euterpeguitare.com)
 
 ## F
@@ -125,6 +126,7 @@
 
 ## R
 
+* [Laurent Rousseau - La minute utile du musicien](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Rémige Design](http://remigedesign.fr/)
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
 * [Riki le plectrier - médiators](https://riki-le-plectrier.eu/fr/)
@@ -138,6 +140,7 @@
 * [_L'encyclopédie de la guitare_ par Christian Séguret](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
 * [Skull Strings](http://www.skullstrings.com/a-propos/)
+* [Sono Vente](https://www.sonovente.com/)
 * [SP Custom](http://sp-custom.com/wp/)
 * [Star's Music](https://www.stars-music.fr/)
 * [StorkPedals](https://www.instagram.com/storkpedals/)
