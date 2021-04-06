@@ -36,15 +36,13 @@
 * [Mad Guitars](http://www.mad-guitars.com/)
 * [Custom 77](https://www.custom77.com/fr/c77/guitares/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
-* [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
 * [Dulcie - Guitare de voyage](https://shop.hemann.fr/categorie/dulcies/)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
 * [Girault Guitars](https://www.giraultguitars.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Darius Guitarz](https://www.dariusguitarz.com/)
-* [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
-* [Echo d'artistes](https://www.echodartistes.com/)
+* [...autres luthiers](luthiers.md)
 
 ## Amplis
 
