@@ -132,6 +132,7 @@
 ### Théorie musicale
 
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
+* [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 
 ### Livres / BD
 
