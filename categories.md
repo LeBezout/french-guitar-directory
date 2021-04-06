@@ -39,6 +39,8 @@
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Darius Guitarz](https://www.dariusguitarz.com/)
+* [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
+* [Echo d'artistes](https://www.echodartistes.com/)
 
 ## Amplis
 
