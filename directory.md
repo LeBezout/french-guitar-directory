@@ -70,6 +70,8 @@
 * [Guitare Facile](https://www.guitare-facile.fr/)
 * [Guitar N' Blues](https://www.guitarnblues.com/)
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
+* [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
+* [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
 
 ## H
 
