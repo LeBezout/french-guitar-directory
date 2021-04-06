@@ -18,6 +18,7 @@
 
 ## B
 
+* [Magazine : Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Benedetti Pickups](https://www.benedettipickups.com/)
 * [BD Custom](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
 * [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
@@ -25,7 +26,6 @@
 * [BO Effects](https://www.bo-effects.com/accueil/)
 * [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
 * [Constant Bourgeois - sangles](https://straps.constant-bourgeois.com/fr/)
-* [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
 
 ## C
 
