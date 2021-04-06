@@ -14,7 +14,7 @@
   * [Sangles](#sangles)
   * [Câbles et Jack](#câbles-et-jack)
   * [Produits d'entretien](#produits-dentretien)
-* [Livres et Théorie musicale](#livres-et-théorie-musicale)
+* [Presse, livres et théorie musicale](#presse-livres-et-théorie-musicale)
 * [Traitements audio](#traitements-audio)
 * [VOD](#vod)
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
@@ -119,8 +119,10 @@
 
 * [Armonics](https://armonics.fr/)
 
-## Livres et Théorie musicale
+## Presse, livres et théorie musicale
 
+* [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
+* [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 * [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
