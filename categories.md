@@ -47,6 +47,8 @@
 * [Scribaux Amps](https://www.facebook.com/scribauxamps/)
 * [Val Martins](https://val-martins-amplification.com)
 * [Dewitte-Wired](https://www.dewitte-wired.fr/)
+* [Heptode](https://www.heptode.com/fr/)
+* [Enkore Arts](https://enkore-arts.net/)
 
 ## Micros
 
@@ -79,6 +81,7 @@
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/Pages/FR/TubePlayer.html)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
 * [MFX Audio](https://mfx-audio.com/)
+* [Heptode](https://www.heptode.com/fr/)
 
 ## Accessoires
 
@@ -148,6 +151,7 @@
 * [MyGuitare](https://www.myguitare.com/cours-guitare-en-ligne)
 * [Guitare Légende](https://guitarelegende.podia.com/blues)
 * [Guitare Facile](https://www.guitare-facile.fr/)
+* [Laurent Rousseau - La minute utile du musicien](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 
 ## Pièces détachées
 
@@ -165,4 +169,5 @@
 * [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
 * [Hurricane Music](https://hurricanemusic.fr/)
 * [Star's Music](https://www.stars-music.fr/)
+* [Sono Vente](https://www.sonovente.com/)
 * [La carte musique](https://www.lacartemusique.fr/)
