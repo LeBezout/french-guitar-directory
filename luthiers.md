@@ -1,5 +1,7 @@
 # Annuaires des luthiers par département
 
+**!! en construction !!**
+
 ## 03 - Allier
 
 * [MAD Guitars - Aldo Maillot](http://www.mad-guitars.com/)
@@ -20,7 +22,7 @@
 
 ## 34 - Hérault
 
-[Rémige Design - Charles-Antoine Cargill](http://remigedesign.fr/)
+* [Rémige Design - Charles-Antoine Cargill](http://remigedesign.fr/)
 
 ## 35 - Ile-et-Vilaine
 
