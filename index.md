@@ -4,3 +4,4 @@
 
 * [Classement par catégories](categories.md)
 * [Classement par ordre alphabétique](directory.md)
+* [L'annuaire des luthiers par département](luthiers.md)
