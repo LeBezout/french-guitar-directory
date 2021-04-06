@@ -15,6 +15,10 @@
   * [Câbles et Jack](#câbles-et-jack)
   * [Produits d'entretien](#produits-dentretien)
 * [Presse, livres et théorie musicale](#presse-livres-et-théorie-musicale)
+  * [Presse / Magazines](#presse--magazines)
+  * [Théorie musicale](#théorie-musicale)
+  * [Livres / BD](#livres--bd)
+  * [Autres](#autres)
 * [Traitements audio](#traitements-audio)
 * [VOD](#vod)
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
@@ -121,14 +125,26 @@
 
 ## Presse, livres et théorie musicale
 
+### Presse / Magazines
+
+* [Magazine : Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
 * [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
+
+### Théorie musicale
+
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
-* [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
+
+### Livres / BD
+
 * [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
 * [_L'encyclopédie de la guitare_ par Christian Séguret](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
 * [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
+
+### Autres
+
+* [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 
 ## Traitements audio
 
