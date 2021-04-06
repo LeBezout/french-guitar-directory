@@ -121,6 +121,7 @@
 
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 * [P&Pickups](http://www.plugandplay-amp.com/Pages/FR/ms.html)
+* [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/)
 * [PowerCorde](https://www.youtube.com/c/PowerCordeTV/about)
 * [PureTones - Samples batterie](https://puretones.net/)
