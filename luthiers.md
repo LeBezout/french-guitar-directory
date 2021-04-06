@@ -2,8 +2,8 @@
 
 **!! en construction !!**
 
-[03](#03---allier) | [18](#18---cher) | [31](#31---haute-garonne) | [32](#32---gers) | [33](33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
-[59](#59---nord) | [60](#60---oise) | [69](#69---rhône) | [81](#81---tarn) | [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
+[03](#03---allier) | [18](#18---cher) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
+[59](#59---nord) | [60](#60---oise) | [69](#69---rhône) | [74](#74---haute-savoie) | [81](#81---tarn) | [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
 
 ## 03 - Allier
 
