@@ -190,3 +190,4 @@
 * [Star's Music](https://www.stars-music.fr/)
 * [Sono Vente](https://www.sonovente.com/)
 * [La carte musique](https://www.lacartemusique.fr/)
+* [Jaha Guitars](https://jahaguitars.com/)
