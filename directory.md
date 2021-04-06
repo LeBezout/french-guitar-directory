@@ -83,6 +83,7 @@
 
 ## J
 
+* [Jaha Guitars](https://jahaguitars.com/)
 * [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
 * [JSR Guitar From Hell](https://www.youtube.com/channel/UCU0nbtoQrOCD9vGMhPcz3jQ)
 
