@@ -2,12 +2,17 @@
 
 **!! en construction !!**
 
-[03](#03---allier) | [18](#18---cher) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
+[03](#03---allier) | [13](#13---bouches-du-rhônes) | [18](#18---cher) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
 [59](#59---nord) | [60](#60---oise) | [69](#69---rhône) | [74](#74---haute-savoie) | [81](#81---tarn) | [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
 
 ## 03 - Allier
 
 * [MAD Guitars - Aldo Maillot](http://www.mad-guitars.com/)
+
+## 13 - Bouches-du-Rhônes
+
+* [Florian Deneuville](https://www.facebook.com/florian.deneuville/)
+* [Thibaud Imbard](https://www.facebook.com/thibaud.imbard/)
 
 ## 18 - Cher
 
@@ -18,6 +23,7 @@
 ## 31 - Haute-Garonne
 
 * [Echo d'artistes](https://www.echodartistes.com/)
+* [Barbe Guitares et Lutherie](https://www.facebook.com/Barbeguitares/)
 
 ## 32 - Gers
 
