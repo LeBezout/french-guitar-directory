@@ -11,7 +11,7 @@
 * [ALH Effects](https://www.alh-effects.fr)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
 * [Anasounds](https://anasounds.com/fr/)
-* [Armonics](https://armonics.fr/)
+* [Armonics - produits d'entretien](https://armonics.fr/)
 * [Asyllum Pickups](https://asyllumpickups.com)
 * [L’atelier son](https://www.latelierson.com/)
 * [Audiophonics](https://www.audiophonics.fr/fr/)
@@ -30,11 +30,11 @@
 ## C
 
 * [La carte musique](https://www.lacartemusique.fr/)
-* [Campus Musique Vauréal](https://www.facebook.com/campusmusiquevaureal/)
+* [Campus Musique Vauréal - cours](https://www.facebook.com/campusmusiquevaureal/)
 * [CBpickups](https://www.cbpickups.com/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
 * [Collision Gears](https://collisiongears.com/?lang=fr)
-* [Cordes Express](https://www.cordesexpress.com/fr/)
+* [Cordes Express - picèces détachées](https://www.cordesexpress.com/fr/)
 * [Custom 77](https://www.custom77.com/fr/c77/guitares/)
 
 ## D
@@ -51,24 +51,23 @@
 
 * [Echo d'artistes](https://www.echodartistes.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
-* [Emma Music](https://www.emma-music.com/)
+* [Emma Music - picèces détachées](https://www.emma-music.com/)
 * [Enkore Arts](https://enkore-arts.net/)
 * [Euterpe Custom Shop](https://euterpeguitare.com)
 
 ## F
 
-* [France Guitare](https://www.franceguitare.fr/)
+* [France Guitare - picèces détachées](https://www.franceguitare.fr/)
 * [Fred Amp](http://www.fredamp.fr/custom)
-
 
 ## G
 
-* [MrGalagomusic](https://www.galagomusic.com/apprendre-la-guitare/)
+* [MrGalagomusic - formations / cours]](https://www.galagomusic.com/apprendre-la-guitare/)
 * [Girault Guitars](https://www.giraultguitars.com/)
-* [Guitar Plug N' Play](https://www.guitarplugandplay.com/formations/)
-* [Guitare Légende](https://guitarelegende.podia.com/blues)
-* [Guitare Facile](https://www.guitare-facile.fr/)
-* [Guitar N' Blues](https://www.guitarnblues.com/)
+* [Guitar Plug N' Play - formations / cours]](https://www.guitarplugandplay.com/formations/)
+* [Guitare Légende - formations / cours]](https://guitarelegende.podia.com/blues)
+* [Guitare Facile - formations / cours]](https://www.guitare-facile.fr/)
+* [Guitar N' Blues - picèces détachées](https://www.guitarnblues.com/)
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
 * [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
 * [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
@@ -83,20 +82,20 @@
 
 ## J
 
-* [Jaha Guitars](https://jahaguitars.com/)
+* [Jaha Guitars - picèces détachées](https://jahaguitars.com/)
 * [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
-* [JSR Guitar From Hell](https://www.youtube.com/channel/UCU0nbtoQrOCD9vGMhPcz3jQ)
+* [JSR Guitar From Hell - cours](https://www.youtube.com/channel/UCU0nbtoQrOCD9vGMhPcz3jQ)
 
 ## K
 
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
-* [Kelt](https://www.keltamplification.com/)
+* [Kelt Amplification](https://www.keltamplification.com/)
 
 ## L
 
 * [La chaîne guitare](https://www.youtube.com/c/lachaineguitare/about)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
-* [Little Wings](https://www.little-wings-guitars.com/)
+* [Little Wings Guitars](https://www.little-wings-guitars.com/)
 * [LNA Guitar Effects](http://siteweb.lnafx.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
 * [Luthimate](http://www.luthimate.fr/fr/)
@@ -108,11 +107,11 @@
 * [Marty's Pedalboard](https://www.facebook.com/Marty.Pedalboard/)
 * [MFX Audio](https://mfx-audio.com/)
 * [Le micro custom](https://lemicrocustom.fr/)
-* [MyGuitare](https://www.myguitare.com/cours-guitare-en-ligne)
+* [MyGuitare - formations / cours](https://www.myguitare.com/cours-guitare-en-ligne)
 
 ## N
 
-* [NeoGeofanatic](https://www.youtube.com/user/NeoGeofanatic/about)
+* [NeoGeofanatic - Master Class / cours](https://www.youtube.com/user/NeoGeofanatic/about)
 * [Le niglo - médiators](https://mediators-le-niglo.fr/)
 * [Noé Guitares](https://noeguitares-luthier.fr/)
 
@@ -124,7 +123,7 @@
 * [P&Pickups](http://www.plugandplay-amp.com/Pages/FR/ms.html)
 * [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/)
-* [PowerCorde](https://www.youtube.com/c/PowerCordeTV/about)
+* [PowerCorde - formations / cours]](https://www.youtube.com/c/PowerCordeTV/about)
 * [PureTones - Samples batterie](https://puretones.net/)
 * [Puzzle Effects](https://www.facebook.com/puzzle.effects/)
 
@@ -132,10 +131,11 @@
 
 ## R
 
-* [Laurent Rousseau - La minute utile du musicien](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
+* [Laurent Rousseau - formations / cours]](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Rémige Design](http://remigedesign.fr/)
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
 * [Riki le plectrier - médiators](https://riki-le-plectrier.eu/fr/)
+* [Kévin Roche - formation](http://www.kevinroche.fr/formation.html)
 
 ## S
 
@@ -177,4 +177,4 @@
 ## Z
 
 * [Zorg Effects](http://www.zorgeffects.com/)
-* [Sebastien Zunino](https://www.sebastienzunino.com/)
+* [Sebastien Zunino - formations / cours](https://www.sebastienzunino.com/)
