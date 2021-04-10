@@ -172,7 +172,7 @@
 * [Guitare Facile](https://www.guitare-facile.fr/)
 * [Laurent Rousseau - La minute utile du musicien](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Kévin Roche](http://www.kevinroche.fr/formation.html)
-* [Guitalaya][https://guitalaya.com/)
+* [Guitalaya](https://guitalaya.com/)
 
 ## Pièces détachées
 
