@@ -7,24 +7,25 @@
 
 ## A
 
-* [Algam WebStore](https://www.algam-webstore.fr/)
+* [Algam WebStore - revendeur](https://www.algam-webstore.fr/)
 * [ALH Effects](https://www.alh-effects.fr)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
 * [Anasounds](https://anasounds.com/fr/)
 * [Armonics - produits d'entretien](https://armonics.fr/)
 * [Asyllum Pickups](https://asyllumpickups.com)
-* [L’atelier son](https://www.latelierson.com/)
+* [L'atelier son](https://www.latelierson.com/)
 * [Audiophonics](https://www.audiophonics.fr/fr/)
 
 ## B
 
-* [Magazine : Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
+* [Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Benedetti Pickups](https://www.benedettipickups.com/)
-* [BD Custom](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
+* [BD Custom - amplification](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
 * [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
 * [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
 * [BO Effects](https://www.bo-effects.com/accueil/)
-* [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
+* Réda Boucher et Jules Btrx :
+  * Livre : [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare!](https://fr.ulule.com/la-chelouterie-guitaristique/)
 * [Constant Bourgeois - sangles](https://straps.constant-bourgeois.com/fr/)
 
 ## C
@@ -34,14 +35,14 @@
 * [CBpickups](https://www.cbpickups.com/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
 * [Collision Gears](https://collisiongears.com/?lang=fr)
-* [Cordes Express - picèces détachées](https://www.cordesexpress.com/fr/)
+* [Cordes Express - pièces détachées](https://www.cordesexpress.com/fr/)
 * [Custom 77](https://www.custom77.com/fr/c77/guitares/)
 
 ## D
 
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
-* [Dewitte-Wired](https://www.dewitte-wired.fr/)
+* [Dewitte-Wired - amplification](https://www.dewitte-wired.fr/)
 * [Doc Music Station](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
 * [Dolmen Effects](https://www.facebook.com/Dolmen-Effects-104507824488899/)
@@ -51,27 +52,27 @@
 
 * [Echo d'artistes](https://www.echodartistes.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
-* [Emma Music - picèces détachées](https://www.emma-music.com/)
+* [Emma Music - pièces détachées](https://www.emma-music.com/)
 * [Enkore Arts](https://enkore-arts.net/)
-* [Euterpe Custom Shop](https://euterpeguitare.com)
+* [Euterpe Custom Shop - micros](https://euterpeguitare.com)
 
 ## F
 
-* [France Guitare - picèces détachées](https://www.franceguitare.fr/)
-* [Fred Amp](http://www.fredamp.fr/custom)
+* [France Guitare - pièces détachées](https://www.franceguitare.fr/)
+* [Fred Amp - amplification](http://www.fredamp.fr/custom)
 
 ## G
 
-* [MrGalagomusic - formations / cours]](https://www.galagomusic.com/apprendre-la-guitare/)
+* [MrGalagomusic - formations / cours](https://www.galagomusic.com/apprendre-la-guitare/)
 * [Girault Guitars](https://www.giraultguitars.com/)
-* [Guitalaya][https://guitalaya.com/)
-* [Guitar Plug N' Play - formations / cours]](https://www.guitarplugandplay.com/formations/)
-* [Guitare Légende - formations / cours]](https://guitarelegende.podia.com/blues)
-* [Guitare Facile - formations / cours]](https://www.guitare-facile.fr/)
-* [Guitar N' Blues - picèces détachées](https://www.guitarnblues.com/)
+* [Guitalaya - formations / cours](https://guitalaya.com/)
+* [Guitar Plug N' Play - formations / cours](https://www.guitarplugandplay.com/formations/)
+* [Guitare Légende - formations / cours](https://guitarelegende.podia.com/blues)
+* [Guitare Facile - formations / cours](https://www.guitare-facile.fr/)
+* [Guitar N' Blues - pièces détachées](https://www.guitarnblues.com/)
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
-* [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
-* [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
+* [Guitare Extreme - magazine](https://www.facebook.com/guitarextrememag/)
+* [Guitar Part - magazine](https://www.facebook.com/guitarpartmagazine)
 
 ## H
 
@@ -83,14 +84,14 @@
 
 ## J
 
-* [Jaha Guitars - picèces détachées](https://jahaguitars.com/)
-* [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
+* [Jaha Guitars - pièces détachées](https://jahaguitars.com/)
+* [Japan Handmade Guitars - revendeur](https://japanguitar-handmade.com/fr/)
 * [JSR Guitar From Hell - cours](https://www.youtube.com/channel/UCU0nbtoQrOCD9vGMhPcz3jQ)
 
 ## K
 
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
-* [Kelt Amplification](https://www.keltamplification.com/)
+* [Kelt - amplification](https://www.keltamplification.com/)
 
 ## L
 
@@ -107,6 +108,8 @@
 * [Marceau Guitares](https://www.marceauguitars.com/)
 * [Marty's Pedalboard](https://www.facebook.com/Marty.Pedalboard/)
 * [MFX Audio](https://mfx-audio.com/)
+* Romain MORLOT :
+  * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
 * [Le micro custom](https://lemicrocustom.fr/)
 * [MyGuitare - formations / cours](https://www.myguitare.com/cours-guitare-en-ligne)
 
@@ -124,7 +127,7 @@
 * [P&Pickups](http://www.plugandplay-amp.com/Pages/FR/ms.html)
 * [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/)
-* [PowerCorde - formations / cours]](https://www.youtube.com/c/PowerCordeTV/about)
+* [PowerCorde - formations / cours](https://www.youtube.com/c/PowerCordeTV/about)
 * [PureTones - Samples batterie](https://puretones.net/)
 * [Puzzle Effects](https://www.facebook.com/puzzle.effects/)
 
@@ -132,24 +135,25 @@
 
 ## R
 
-* [Laurent Rousseau - formations / cours]](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
+* [Laurent Rousseau - formations / cours](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Rémige Design](http://remigedesign.fr/)
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
 * [Riki le plectrier - médiators](https://riki-le-plectrier.eu/fr/)
-* [Kévin Roche - formation](http://www.kevinroche.fr/formation.html)
+* [Kévin Roche - formations](http://www.kevinroche.fr/formation.html)
 
 ## S
 
 * [Sabelya](https://sabelya.fr/)
 * [SaberuS](https://www.facebook.com/SaberuS58/)
 * [Savarez Strings](https://www.savarez.fr/)
-* [Scribaux Amps](https://www.facebook.com/scribauxamps/)
-* [_L'encyclopédie de la guitare_ par Christian Séguret](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
-* [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
+* [Scribaux Amps - amplification](https://www.facebook.com/scribauxamps/)
+* Christian Séguret :
+  * Livre [_L'encyclopédie de la guitare_](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
+  * Livre [_Guitar Talk_](https://gaelis-editions.com/guitar-talk/)
 * [Skull Strings](http://www.skullstrings.com/a-propos/)
-* [Sono Vente](https://www.sonovente.com/)
+* [Sono Vente - revendeur](https://www.sonovente.com/)
 * [SP Custom](http://sp-custom.com/wp/)
-* [Star's Music](https://www.stars-music.fr/)
+* [Star's Music - revendeur](https://www.stars-music.fr/)
 * [StorkPedals](https://www.instagram.com/storkpedals/)
 
 ## T
@@ -169,7 +173,7 @@
 
 ## W
 
-* [Woodbrass](https://www.woodbrass.com/)
+* [Woodbrass - revendeur](https://www.woodbrass.com/)
 
 ## X
 
