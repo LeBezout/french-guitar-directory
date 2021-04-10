@@ -64,6 +64,7 @@
 
 * [MrGalagomusic - formations / cours]](https://www.galagomusic.com/apprendre-la-guitare/)
 * [Girault Guitars](https://www.giraultguitars.com/)
+* [Guitalaya][https://guitalaya.com/)
 * [Guitar Plug N' Play - formations / cours]](https://www.guitarplugandplay.com/formations/)
 * [Guitare Légende - formations / cours]](https://guitarelegende.podia.com/blues)
 * [Guitare Facile - formations / cours]](https://www.guitare-facile.fr/)
