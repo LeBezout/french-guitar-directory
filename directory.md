@@ -175,6 +175,7 @@
 
 ## W
 
+* [Wild Custom](https://www.wildcustomguitars.com/fr/)
 * [Woodbrass - revendeur](https://www.woodbrass.com/)
 
 ## X
