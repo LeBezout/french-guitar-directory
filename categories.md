@@ -54,6 +54,7 @@
 * [Dewitte-Wired](https://www.dewitte-wired.fr/)
 * [Heptode](https://www.heptode.com/fr/)
 * [Enkore Arts](https://enkore-arts.net/)
+* [P.M.S électronique (réparation, entretien)](http://pms.elec.free.fr/index.html)
 
 ## Micros
 
