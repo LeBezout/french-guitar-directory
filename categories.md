@@ -114,7 +114,7 @@
 
 ### Câbles et Jack
 
-* [L’atelier son](https://www.latelierson.com/)
+* [L'atelier son](https://www.latelierson.com/)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/Pages/FR/SPC.html)
 
 ### Produits d'entretien
@@ -182,6 +182,7 @@
 * [Cordes Express](https://www.cordesexpress.com/fr/)
 * [Luthimate](http://www.luthimate.fr/fr/)
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
+* [ADP Guitar Parts](https://adpguitarparts.fr/fr/)
 
 ## Généralistes, revendeurs, importateurs
 
