@@ -8,6 +8,7 @@
 ## 03 - Allier
 
 * [MAD Guitars - Aldo Maillot](http://www.mad-guitars.com/)
+* [Wild Custom](https://www.wildcustomguitars.com/fr/)
 
 ## 13 - Bouches-du-Rhônes
 
