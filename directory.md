@@ -7,22 +7,24 @@
 
 ## A
 
+* [ADP Guitar Parts - pièces détachées](https://adpguitarparts.fr/fr/)
 * [Algam WebStore - revendeur](https://www.algam-webstore.fr/)
 * [ALH Effects](https://www.alh-effects.fr)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
-* [Anasounds](https://anasounds.com/fr/)
+* [Anasounds - effets, alimentations](https://anasounds.com/fr/)
 * [Armonics - produits d'entretien](https://armonics.fr/)
 * [Asyllum Pickups](https://asyllumpickups.com)
-* [L'atelier son](https://www.latelierson.com/)
-* [Audiophonics](https://www.audiophonics.fr/fr/)
+* [L'atelier son - câbles haut de gamme](https://www.latelierson.com/)
+* [Audiophonics - traitements et matériels audio](https://www.audiophonics.fr/)
 
 ## B
 
 * [Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Benedetti Pickups](https://www.benedettipickups.com/)
 * [BD Custom - amplification](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
-* [_Paroles et guitares de luthiers_ d'Emmanuel Bighelli](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
-* [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
+* Emmanuel Bighelli :
+  * Livre : [_Paroles et guitares de luthiers](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
+* [Blue Cat Audio - traitements audio](https://www.bluecataudio.com/Main/Home/)
 * [BO Effects](https://www.bo-effects.com/accueil/)
 * Réda Boucher et Jules Btrx :
   * Livre : [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare!](https://fr.ulule.com/la-chelouterie-guitaristique/)
@@ -30,7 +32,7 @@
 
 ## C
 
-* [La carte musique](https://www.lacartemusique.fr/)
+* [La carte musique - revendeur](https://www.lacartemusique.fr/)
 * [Campus Musique Vauréal - cours](https://www.facebook.com/campusmusiquevaureal/)
 * [CBpickups](https://www.cbpickups.com/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
@@ -43,7 +45,7 @@
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
 * [Dewitte-Wired - amplification](https://www.dewitte-wired.fr/)
-* [Doc Music Station](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
+* [Doc Music Station - effets](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
 * [Dolmen Effects](https://www.facebook.com/Dolmen-Effects-104507824488899/)
 * [Dulcie - Guitare de voyage](https://shop.hemann.fr/categorie/dulcies/)
@@ -78,7 +80,7 @@
 
 * [Hep Cat Pickups](https://hepcatpickups.com/)
 * [Heptode](https://www.heptode.com/fr/amplosion.php)
-* [Hurricane Music](https://hurricanemusic.fr/)
+* [Hurricane Music - revendeur](https://hurricanemusic.fr/)
 
 ## I
 
