@@ -42,6 +42,7 @@
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Darius Guitarz](https://www.dariusguitarz.com/)
+* [Wild Custom](https://www.wildcustomguitars.com/fr/)
 * [...autres luthiers](luthiers.md)
 
 ## Amplis
