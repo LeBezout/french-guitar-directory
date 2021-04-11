@@ -23,7 +23,7 @@
 * [Benedetti Pickups](https://www.benedettipickups.com/)
 * [BD Custom - amplification](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
 * Emmanuel Bighelli :
-  * Livre : [_Paroles et guitares de luthiers](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
+  * Livre : [_Paroles et guitares de luthiers_](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
 * [Blue Cat Audio - traitements audio](https://www.bluecataudio.com/Main/Home/)
 * [BO Effects](https://www.bo-effects.com/accueil/)
 * Réda Boucher et Jules Btrx :
