@@ -130,6 +130,7 @@
 * [Magazine : Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Magazine : Guitare Extreme](https://www.facebook.com/guitarextrememag/)
 * [Magazine : Guitar Part](https://www.facebook.com/guitarpartmagazine)
+* [Magazine : Guitare Sèche](https://www.guitaresechelemag.com/)
 
 ### Théorie musicale
 
@@ -155,6 +156,7 @@
 * [Audiophonics](https://www.audiophonics.fr/fr/)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
 * [Samples batterie PureTones](https://puretones.net/)
+* [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 
 ## VOD
 
