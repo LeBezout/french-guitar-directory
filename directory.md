@@ -12,6 +12,7 @@
 * [ALH Effects](https://www.alh-effects.fr)
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
 * [Anasounds - effets, alimentations](https://anasounds.com/fr/)
+* [Arobas Music : Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 * [Armonics - produits d'entretien](https://armonics.fr/)
 * [Asyllum Pickups](https://asyllumpickups.com)
 * [L'atelier son - câbles haut de gamme](https://www.latelierson.com/)
@@ -75,6 +76,8 @@
 * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
 * [Guitare Extreme - magazine](https://www.facebook.com/guitarextrememag/)
 * [Guitar Part - magazine](https://www.facebook.com/guitarpartmagazine)
+* [Guitare Sèche - magazine](https://www.guitaresechelemag.com/)
+* [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 
 ## H
 
