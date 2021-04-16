@@ -171,6 +171,8 @@
 
 ## U
 
+* [United Guitars : compilation, merchandising et événements](https://united-guitars.fr/fr)
+
 ## V
 
 * [Val Martins](https://val-martins-amplification.com)
