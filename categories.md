@@ -144,6 +144,10 @@
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
 * [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
 
+### Posters
+
+* [Maxime Gueraoui - Posters de guitares](https://www.etsy.com/fr/shop/MaximePoster?ref=simple-shop-header-name&listing_id=805055598&section_id=32646150)
+
 ### Autres
 
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
