@@ -19,7 +19,7 @@
   * [Théorie musicale](#théorie-musicale)
   * [Livres / BD](#livres--bd)
   * [Autres](#autres)
-* [Traitements audio](#traitements-audio)
+* [Traitements audio / monitoring](#traitements-audio--monitoring)
 * [VOD](#vod)
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
 * [Pièces détachées](#pièces-détachées)
@@ -152,13 +152,14 @@
 
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 
-## Traitements audio
+## Traitements audio / monitoring
 
 * [Two Notes](https://www.two-notes.com/fr)
 * [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
 * [Heptode](https://www.heptode.com/fr/amplosion.php)
 * [Audiophonics](https://www.audiophonics.fr/fr/)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
+* [AG Custom Audio - Ear Monitors](https://agcustomaudio.com/)
 * [Samples batterie PureTones](https://puretones.net/)
 * [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 
