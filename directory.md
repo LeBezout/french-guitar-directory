@@ -38,7 +38,7 @@
 * [Campus Musique Vauréal - cours](https://www.facebook.com/campusmusiquevaureal/)
 * [CBpickups](https://www.cbpickups.com/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
-* [Collision Gears](https://collisiongears.com/?lang=fr)
+* [Collision Devices](https://collisiongears.com/?lang=fr)
 * [Cordes Express - pièces détachées](https://www.cordesexpress.com/fr/)
 * [Custom 77](https://www.custom77.com/fr/c77/guitares/)
 
