@@ -80,7 +80,7 @@
 * [SaberuS](https://www.facebook.com/SaberuS58/)
 * [Puzzle Effects](https://www.facebook.com/puzzle.effects/)
 * [Dolmen Effects](https://www.facebook.com/Dolmen-Effects-104507824488899/)
-* [Collision Gears](https://collisiongears.com/?lang=fr)
+* [Collision Devices](https://collisiongears.com/?lang=fr)
 * [StorkPedals](https://www.instagram.com/storkpedals/)
 * [BO Effects](https://www.bo-effects.com/accueil/)
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
