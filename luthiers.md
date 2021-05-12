@@ -50,6 +50,7 @@
 
 * [Baudry Guitars](https://www.facebook.com/Baudryguitars)
 * [Franck Claise](http://configurateur.claise-guitares.com/)
+* [Germain Lewandowski](https://germainlewandowski.wixsite.com/luthierglguitars)
 
 ## 60 - Oise
 
