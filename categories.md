@@ -89,6 +89,7 @@
 * [MFX Audio](https://mfx-audio.com/)
 * [Heptode](https://www.heptode.com/fr/)
 * [Poon's Guitar Effect](https://www.facebook.com/poons.guitar.effect/)
+* [CM-Effects](https://www.facebook.com/CMeffects/)
 
 ## Accessoires
 
