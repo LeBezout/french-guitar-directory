@@ -88,6 +88,7 @@
 * [Ami Effects](https://www.amieffects.com/les-pedales-1)
 * [MFX Audio](https://mfx-audio.com/)
 * [Heptode](https://www.heptode.com/fr/)
+* [Poon's Guitar Effect](https://www.facebook.com/poons.guitar.effect/)
 
 ## Accessoires
 
