@@ -138,6 +138,7 @@
 * [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/)
 * [P.M.S électronique - amplification : réparation et entretien)](http://pms.elec.free.fr/index.html)
+* [Poon's Guitar Effect](https://www.facebook.com/poons.guitar.effect/)
 * [PowerCorde - formations / cours](https://www.youtube.com/c/PowerCordeTV/about)
 * [PureTones - Samples batterie](https://puretones.net/)
 * [Puzzle Effects](https://www.facebook.com/puzzle.effects/)
