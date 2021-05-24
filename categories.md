@@ -90,6 +90,7 @@
 * [Heptode](https://www.heptode.com/fr/)
 * [Poon's Guitar Effect](https://www.facebook.com/poons.guitar.effect/)
 * [CM-Effects](https://www.facebook.com/CMeffects/)
+* [PFX Circuits](https://www.facebook.com/pfxcircuits/)
 
 ## Accessoires
 
