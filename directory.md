@@ -136,6 +136,7 @@
 
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 * [P&Pickups](http://www.plugandplay-amp.com/Pages/FR/ms.html)
+* [PFX Circuits](https://www.facebook.com/pfxcircuits/)
 * [PLAY MUSIC Publishing - Méthodes et autres produits pédagogiques](https://www.play-music.com/fr)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/)
 * [P.M.S électronique - amplification : réparation et entretien)](http://pms.elec.free.fr/index.html)
