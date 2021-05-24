@@ -2,8 +2,8 @@
 
 **!! en construction !!**
 
-[03](#03---allier) | [13](#13---bouches-du-rhônes) | [18](#18---cher) | [28](#28---eure-et-loire) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
-[59](#59---nord) | [60](#60---oise) | [64](#64---pyrénées-atlantiques) | [69](#69---rhône) | [74](#74---haute-savoie) | [81](#81---tarn) | [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
+[03](#03---allier) | [13](#13---bouches-du-rhônes) | [18](#18---cher) | [26](#26---drôme) | [28](#28---eure-et-loire) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre)
+[59](#59---nord) | [60](#60---oise) | [64](#64---pyrénées-atlantiques) | [69](#69---rhône) | [74](#74---haute-savoie) | [75](#75---paris) | [81](#81---tarn) | [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
 
 ## 03 - Allier
 
@@ -20,6 +20,10 @@
 * [Cesar Box Guitars](http://cesarboxguitars.com/)
 * [Rémi Castillo](https://www.facebook.com/remicastilloluthierfr/)
 * [Insomnia France](https://www.facebook.com/Insomniaguitare/)
+
+## 26 - Drôme
+
+* [Franck Cheval](http://www.chevalguitars.com/)
 
 ## 28 - Eure-et-Loire
 
@@ -71,6 +75,12 @@
 ## 74 - Haute-Savoie
 
 * [Yves Ghirotto](https://ghirotto-luthier.fr/)
+
+## 75 - Paris
+
+* [Alain Quéguiner](http://www.alain-queguiner.com)
+* [DNG Guitares](https://www.dngguitares.fr/)
+* [Paris Guitar Rescue](https://www.facebook.com/ParisGuitarRescue/)
 
 ## 81 - Tarn
 
