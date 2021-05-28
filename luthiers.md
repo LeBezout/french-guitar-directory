@@ -50,13 +50,13 @@
 
 * [Tom Marceau](https://www.marceauguitars.com/)
 
-## 41 - Loir-et-Cher
-
-* [Antoine Delesalle - Le Local](https://www.facebook.com/Lelocalguitare)
-
 ## 36 - Indre
 
 * [David Evano](https://www.facebook.com/David-EVANO-Luthier-mais-pas-que-1523846937872766/)
+
+## 41 - Loir-et-Cher
+
+* [Antoine Delesalle - Le Local](https://www.facebook.com/Lelocalguitare)
 
 ## 59 - Nord
 
