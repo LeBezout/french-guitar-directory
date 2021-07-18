@@ -61,6 +61,7 @@
 ## 59 - Nord
 
 * [Baudry Guitars](https://www.facebook.com/Baudryguitars)
+* [Evasion Guitare](https://evasionguitare.fr/)
 * [Franck Claise](http://configurateur.claise-guitares.com/)
 * [Germain Lewandowski](https://germainlewandowski.wixsite.com/luthierglguitars)
 
