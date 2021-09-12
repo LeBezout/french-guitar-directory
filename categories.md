@@ -24,6 +24,7 @@
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
 * [Pièces détachées](#pièces-détachées)
 * [Généralistes, revendeurs, importateurs](#généralistes-revendeurs-importateurs)
+* [Festivals et salons](#festivals-et-salons)
 
 ## Guitares / Lutherie
 
@@ -206,3 +207,15 @@
 * [Sono Vente](https://www.sonovente.com/)
 * [La carte musique](https://www.lacartemusique.fr/)
 * [Jaha Guitars](https://jahaguitars.com/)
+
+## Festivals et salons
+
+* [Festival de guitare d'Issoundun (36)](https://www.facebook.com/fest.guitareissoudun)
+* [Festival - Internationales de la Guitare - Sud France](https://www.facebook.com/internationales.delaguitare/)
+* [Festival Guitare de Puteaux (92)](https://www.facebook.com/festivalguitareputeaux)
+* [Festival Grosses Guitares](https://www.facebook.com/Grosses-Guitares-1427411530648404)
+* [Festival Guitares en Scène (74)](https://www.facebook.com/festivalguitareenscene/)
+* [Festival Pause Guitare Sud de France (81)](https://www.facebook.com/festivalpauseguitaresuddefrance/)
+* [Festival International de Guitare de Roussigny (72)](https://www.facebook.com/Roussignyguitarefestival/)
+* [Festival de Guitare de Nice (06)](https://www.facebook.com/festivaldeguitaredenice/)
+* [Festival de guitare de Vendôme (41)](https://www.facebook.com/FestivalGuitareVendome/)
