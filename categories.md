@@ -207,6 +207,7 @@
 * [Sono Vente](https://www.sonovente.com/)
 * [La carte musique](https://www.lacartemusique.fr/)
 * [Jaha Guitars](https://jahaguitars.com/)
+* [Effects Area - Ventes de pédales d'effets](https://www.effects-area.com/)
 
 ## Festivals et salons
 
