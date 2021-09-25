@@ -12,6 +12,7 @@
 
 ## 13 - Bouches-du-Rhônes
 
+* [Belles Origines](https://www.bellesorigines.com/)
 * [Florian Deneuville](https://www.facebook.com/florian.deneuville/)
 * [Thibaud Imbard](https://www.facebook.com/thibaud.imbard/)
 
@@ -37,6 +38,7 @@
 
 * [Echo d'artistes](https://www.echodartistes.com/)
 * [Barbe Guitares et Lutherie](https://www.facebook.com/Barbeguitares/)
+* [Marine Pacaut](https://www.facebook.com/marine.pacaut.lutherie/)
 
 ## 32 - Gers
 
@@ -51,6 +53,7 @@
 ## 34 - Hérault
 
 * [Rémige Design - Charles-Antoine Cargill](http://remigedesign.fr/)
+* [Mark Kempfer](https://www.facebook.com/marc.kempfer)
 
 ## 35 - Ile-et-Vilaine
 
