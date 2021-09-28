@@ -108,7 +108,7 @@
 
 * [La chaîne guitare](https://www.youtube.com/c/lachaineguitare/about)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
-* [Lead Guitare Académie](https://www.facebook.com/people/Lead-Guitare-Acad%C3%A9mie/100069989983792/)
+* [Lead Guitare Académie](https://www.leadguitareacademie.fr/)
 * [Little Wings Guitars](https://www.little-wings-guitars.com/)
 * [LNA Guitar Effects](http://siteweb.lnafx.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
