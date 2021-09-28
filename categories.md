@@ -186,7 +186,7 @@
 * [Laurent Rousseau - La minute utile du musicien](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Kévin Roche](http://www.kevinroche.fr/formation.html)
 * [Guitalaya](https://guitalaya.com/)
-* [Lead Guitare Académie](https://www.facebook.com/people/Lead-Guitare-Acad%C3%A9mie/100069989983792/)
+* [Lead Guitare Académie](https://www.leadguitareacademie.fr/)
 
 ## Pièces détachées
 
