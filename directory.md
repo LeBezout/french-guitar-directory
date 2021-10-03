@@ -1,5 +1,7 @@
 # Classement par ordre alphabétique
 
+:point_left: [Retour à l'index](index.md)
+
 **Sommaire**
 
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) |
@@ -203,3 +205,5 @@
 
 * [Zorg Effects](http://www.zorgeffects.com/)
 * [Sebastien Zunino - formations / cours](https://www.sebastienzunino.com/)
+
+:point_left: [Retour à l'index](index.md)
