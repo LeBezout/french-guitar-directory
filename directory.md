@@ -67,6 +67,7 @@
 
 * [France Guitare - pièces détachées](https://www.franceguitare.fr/)
 * [Fred Amp - amplification](http://www.fredamp.fr/custom)
+* [UGuitarTool - Ecole de guitare online et live avec Jean Fontanille](https://www.facebook.com/JeanFontanilleGuitare/)
 
 ## G
 
@@ -180,6 +181,7 @@
 
 ## U
 
+* [UGuitarTool - Ecole de guitare online et live avec Jean Fontanille](https://www.facebook.com/JeanFontanilleGuitare/)
 * [United Guitars : compilation, merchandising et événements](https://united-guitars.fr/fr)
 
 ## V
