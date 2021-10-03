@@ -1,5 +1,7 @@
 # Classement par catégories
 
+:point_left: [Retour à l'index](index.md)
+
 **Sommaire**
 
 * [Guitares / Lutherie](#guitares--lutherie)
@@ -223,3 +225,5 @@
 * [Festival de Guitare de Nice (06)](https://www.facebook.com/festivaldeguitaredenice/)
 * [Festival de guitare de Vendôme (41)](https://www.facebook.com/FestivalGuitareVendome/)
 * [Festival La Guitare à Bacchus (33)](https://www.facebook.com/festivallaguitareabacchus)
+
+:point_left: [Retour à l'index](index.md)
