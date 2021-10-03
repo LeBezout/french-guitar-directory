@@ -23,7 +23,7 @@
 ## 18 - Cher
 
 * [Cesar Box Guitars](http://cesarboxguitars.com/)
-* [Rémi Castillo](https://www.facebook.com/remicastilloluthierfr/)
+* [Rémi Castillo](https://remicastilloluthier.fr/)
 * [Insomnia France](https://www.facebook.com/Insomniaguitare/)
 
 ## 26 - Drôme
