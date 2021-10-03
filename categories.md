@@ -187,6 +187,7 @@
 * [Kévin Roche](http://www.kevinroche.fr/formation.html)
 * [Guitalaya](https://guitalaya.com/)
 * [Lead Guitare Académie](https://www.leadguitareacademie.fr/)
+* [UGuitarTool - Ecole de guitare online et live avec Jean Fontanille](https://www.facebook.com/JeanFontanilleGuitare/)
 
 ## Pièces détachées
 
@@ -221,3 +222,4 @@
 * [Festival International de Guitare de Roussigny (72)](https://www.facebook.com/Roussignyguitarefestival/)
 * [Festival de Guitare de Nice (06)](https://www.facebook.com/festivaldeguitaredenice/)
 * [Festival de guitare de Vendôme (41)](https://www.facebook.com/FestivalGuitareVendome/)
+* [Festival La Guitare à Bacchus (33)](https://www.facebook.com/festivallaguitareabacchus)
