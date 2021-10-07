@@ -226,5 +226,6 @@
 * [Festival de guitare de Vendôme (41)](https://www.facebook.com/FestivalGuitareVendome/)
 * [Festival La Guitare à Bacchus (33)](https://www.facebook.com/festivallaguitareabacchus)
 * [Salon de la Belle Guitare (92)](https://www.facebook.com/salondelabelleguitare/)
+* [Paris Guitar Festival (92)](https://www.facebook.com/parisguitarfestival/)
 
 :point_left: [Retour à l'index](index.md)
