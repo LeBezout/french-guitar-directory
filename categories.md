@@ -149,6 +149,7 @@
 * [_L'encyclopédie de la guitare_ par Christian Séguret](https://gaelis-editions.com/encyclopedie-de-la-guitare/)
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
 * [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
+* [Livre _Guitare, un art de vivre_ par Michaël Levivier](https://www.editionsepa.fr/epa/musique/guitare-un-art-de-vivre-9782376712688)
 
 ### Posters
 
