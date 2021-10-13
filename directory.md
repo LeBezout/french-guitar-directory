@@ -112,6 +112,8 @@
 * [La chaîne guitare](https://www.youtube.com/c/lachaineguitare/about)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
 * [Lead Guitare Académie](https://www.leadguitareacademie.fr/)
+* Michaël Levivier :
+  * [Livre _Guitare, un art de vivre_](https://www.editionsepa.fr/epa/musique/guitare-un-art-de-vivre-9782376712688)
 * [Little Wings Guitars](https://www.little-wings-guitars.com/)
 * [LNA Guitar Effects](http://siteweb.lnafx.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
