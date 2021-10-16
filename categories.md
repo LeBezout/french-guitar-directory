@@ -46,6 +46,7 @@
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [Wild Custom](https://www.wildcustomguitars.com/fr/)
+* [Luxguitars (Cale de manche de guitare)](https://www.luxguitars.com/)
 * [...autres luthiers](luthiers.md)
 
 ## Amplis
