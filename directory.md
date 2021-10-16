@@ -118,6 +118,7 @@
 * [LNA Guitar Effects](http://siteweb.lnafx.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
 * [Luthimate](http://www.luthimate.fr/fr/)
+* [Luxguitars](https://www.luxguitars.com/)
 
 ## M
 
