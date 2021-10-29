@@ -78,6 +78,7 @@
 * Maxime Gueraoui :
   * [Posters de guitares](https://www.etsy.com/fr/shop/MaximePoster?ref=simple-shop-header-name&listing_id=805055598&section_id=32646150)
 * [Guitalaya - formations / cours](https://guitalaya.com/)
+* [The Guitar Division](https://theguitardivision.com/fr/)
 * [Guitar Plug N' Play - formations / cours](https://www.guitarplugandplay.com/formations/)
 * [Guitare Légende - formations / cours](https://guitarelegende.podia.com/blues)
 * [Guitare Facile - formations / cours](https://www.guitare-facile.fr/)
