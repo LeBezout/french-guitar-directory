@@ -205,6 +205,7 @@
 
 ## Généralistes, revendeurs, importateurs
 
+* [The Guitar Division](https://theguitardivision.com/fr/)
 * [Woodbrass](https://www.woodbrass.com/)
 * [Algam WebStore](https://www.algam-webstore.fr/)
 * [Japan Handmade Guitars](https://japanguitar-handmade.com/fr/)
