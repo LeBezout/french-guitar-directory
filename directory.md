@@ -74,6 +74,7 @@
 ## G
 
 * [MrGalagomusic - formations / cours](https://www.galagomusic.com/apprendre-la-guitare/)
+* [Générale de lutherie](https://generale-lutherie.com/)
 * [Girault Guitars](https://www.giraultguitars.com/)
 * Maxime Gueraoui :
   * [Posters de guitares](https://www.etsy.com/fr/shop/MaximePoster?ref=simple-shop-header-name&listing_id=805055598&section_id=32646150)
