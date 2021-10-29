@@ -40,6 +40,7 @@
 * [Custom 77](https://www.custom77.com/fr/c77/guitares/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
 * [Dulcie - Guitare de voyage](https://shop.hemann.fr/categorie/dulcies/)
+* [Générale de lutherie](https://generale-lutherie.com/)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
 * [Girault Guitars](https://www.giraultguitars.com/)
 * [Loïc LE PAPE](http://www.loiclepapesteelguitars.com/)
