@@ -108,6 +108,7 @@
 
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
 * [Kelt - amplification](https://www.keltamplification.com/)
+* [Kernom](https://ridge.kernom.com/)
 
 ## L
 
