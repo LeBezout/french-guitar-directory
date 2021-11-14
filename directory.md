@@ -17,6 +17,7 @@
 * [Anasounds - effets, alimentations](https://anasounds.com/fr/)
 * [Arobas Music : Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 * [Armonics - produits d'entretien](https://armonics.fr/)
+* [Arturia](https://www.arturia.com/)
 * [Asyllum Pickups](https://asyllumpickups.com)
 * [L'atelier son - câbles haut de gamme](https://www.latelierson.com/)
 * [Audiophonics - traitements et matériels audio](https://www.audiophonics.fr/)
