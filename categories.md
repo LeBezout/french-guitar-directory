@@ -167,6 +167,7 @@
 * [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
 * [Heptode](https://www.heptode.com/fr/amplosion.php)
 * [Audiophonics](https://www.audiophonics.fr/fr/)
+* [Kernom](https://ridge.kernom.com/)
 * [Ear Monitors Legrand](http://www.inearlegrand.fr/Histoire-de-In-Ear-LEGRAND-ccoaaaaaa.asp)
 * [AG Custom Audio - Ear Monitors](https://agcustomaudio.com/)
 * [Samples batterie PureTones](https://puretones.net/)
