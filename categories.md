@@ -60,6 +60,7 @@
 * [Heptode](https://www.heptode.com/fr/)
 * [Enkore Arts](https://enkore-arts.net/)
 * [P.M.S électronique (réparation, entretien)](http://pms.elec.free.fr/index.html)
+* [Tep's Art](https://www.tepsart.com/)
 
 ## Micros
 
@@ -96,6 +97,7 @@
 * [Poon's Guitar Effect](https://www.facebook.com/poons.guitar.effect/)
 * [CM-Effects](https://www.facebook.com/CMeffects/)
 * [PFX Circuits](https://www.facebook.com/pfxcircuits/)
+* [Tep's Art](https://www.tepsart.com/)
 
 ## Accessoires
 
