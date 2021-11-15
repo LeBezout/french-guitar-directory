@@ -184,6 +184,7 @@
 ## T
 
 * [Ten Fifteen (10:15)](http://www.tenfifteen.fr/)
+* [Tep's Art (amplification, pdédales, ...)](https://www.tepsart.com/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
 * [Tornade MS Pickups](https://www.tornademspickups.com/)
 * [Two Notes](https://www.two-notes.com/fr)
