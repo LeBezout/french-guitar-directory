@@ -52,6 +52,7 @@
 
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
+* [DESS Equipement - Switching & MIDI System Guitar](https://www.dess-equipement.com/)
 * [Dewitte-Wired - amplification](https://www.dewitte-wired.fr/)
 * [Doc Music Station - effets](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
