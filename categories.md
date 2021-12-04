@@ -21,7 +21,7 @@
   * [Théorie musicale](#théorie-musicale)
   * [Livres / BD](#livres--bd)
   * [Autres](#autres)
-* [Traitements audio / monitoring](#traitements-audio--monitoring)
+* [Traitements audio / monitoring / MIDI](#traitements-audio--monitoring--midi)
 * [VOD](#vod)
 * [Formations et cours (skype, ...)](#formations-et-cours-skype-)
 * [Pièces détachées](#pièces-détachées)
@@ -128,6 +128,7 @@
 
 * [L'atelier son](https://www.latelierson.com/)
 * [Plug N' Play Amp](http://www.plugandplay-amp.com/Pages/FR/SPC.html)
+* [DESS Equipement](https://www.dess-equipement.com/)
 
 ### Produits d'entretien
 
@@ -163,7 +164,7 @@
 
 * [_PASS’GUITAR_ le carnet de vie de la guitare](https://www.passguitar.com/index.php)
 
-## Traitements audio / monitoring
+## Traitements audio / monitoring / MIDI
 
 * [Two Notes](https://www.two-notes.com/fr)
 * [Blue Cat Audio](https://www.bluecataudio.com/Main/Home/)
@@ -175,6 +176,7 @@
 * [AG Custom Audio - Ear Monitors](https://agcustomaudio.com/)
 * [Samples batterie PureTones](https://puretones.net/)
 * [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
+* [DESS Equipement - Switching & MIDI System Guitar](https://www.dess-equipement.com/)
 
 ## VOD
 
