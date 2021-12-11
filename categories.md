@@ -209,6 +209,7 @@
 * [Luthimate](http://www.luthimate.fr/fr/)
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
 * [ADP Guitar Parts](https://adpguitarparts.fr/fr/)
+* [Guitelec - Lutherie et accessoires](https://guitelec.fr/)
 
 ## Généralistes, revendeurs, importateurs
 
