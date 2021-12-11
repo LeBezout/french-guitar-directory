@@ -91,6 +91,7 @@
 * [Guitar Part - magazine](https://www.facebook.com/guitarpartmagazine)
 * [Guitare Sèche - magazine](https://www.guitaresechelemag.com/)
 * [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
+* [Guitelec - Lutherie et accessoires](https://guitelec.fr/)
 
 ## H
 
