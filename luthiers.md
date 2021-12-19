@@ -49,6 +49,7 @@
 ## 33 - Gironde
 
 * [Richard Caro](https://www.pagesjaunes.fr/pros/02269329)
+* [Florian Thomas](https://www.facebook.com/Florian-THOMAS-Luthier-%C3%A0-Talence-33400-126916674064686/)
 * [DoktoR VoloX Guitars](https://www.doktorvoloxguitars.com/)
 <!-- * [Yacine Bayan](http://www.bayan-luthier.com/) -->
 
