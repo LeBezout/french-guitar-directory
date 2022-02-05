@@ -200,6 +200,7 @@
 
 * [Val Martins](https://val-martins-amplification.com)
 * [Valley Picks - médiators](https://www.valleypicks.com/asym%C3%A9trique)
+* [Vaudoo Audio - Système de recharge pour guitares et basses actives](https://vaudoo-audio.fr/)
 * [Vigier](https://www.vigierguitars.com/fr/)
 
 ## W
