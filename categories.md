@@ -177,6 +177,7 @@
 * [Samples batterie PureTones](https://puretones.net/)
 * [Guitar Pro - éditions de partitions](https://www.guitar-pro.com/fr/)
 * [DESS Equipement - Switching & MIDI System Guitar](https://www.dess-equipement.com/)
+* [Vaudoo Audio - Système de recharge pour guitares et basses actives](https://vaudoo-audio.fr/)
 
 ## VOD
 
