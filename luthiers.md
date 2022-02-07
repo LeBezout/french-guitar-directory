@@ -4,7 +4,7 @@
 
 **Sommaire - !! en construction !!**
 
-[03](#03---allier) | [13](#13---bouches-du-rhônes) | [16](16---charente) |  [18](#18---cher) | [26](#26---drôme) | [28](#28---eure-et-loire) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre) | [37](#37---indre-et-loire) | [41](#41---loir-et-cher) | [43](43---haute-loire) | [44](#44---loire-atlantique) | 
+[03](#03---allier) | [13](#13---bouches-du-rhônes) | [16](16---charente) |  [18](#18---cher) | [22](#22---côtes-darmor) | [26](#26---drôme) | [28](#28---eure-et-loire) | [31](#31---haute-garonne) | [32](#32---gers) | [33](#33---gironde) | [34](#34---hérault) | [35](#35---ile-et-vilaine) | [36](#36---indre) | [37](#37---indre-et-loire) | [41](#41---loir-et-cher) | [43](43---haute-loire) | [44](#44---loire-atlantique) | 
 [59](#59---nord) | [60](#60---oise) | [64](#64---pyrénées-atlantiques) | [66](#66---pyrénées-orientales) | [68](#68---haut-rhin) | [69](69---rhône) | [74](#74---haute-savoie) | [75](#75---paris) | [81](#81---tarn) | [84](#84---vaucluse) |  [88](#88---vosges) | [92](#92---hauts-de-seine) | [94](#94---val-de-marne)
 
 ## 03 - Allier
@@ -27,6 +27,10 @@
 * [Cesar Box Guitars](http://cesarboxguitars.com/)
 * [Rémi Castillo](https://remicastilloluthier.fr/)
 * [Insomnia France](https://www.facebook.com/Insomniaguitare/)
+
+## 22 - Côtes d'Armor
+
+* [Maja Guitares - Maxime JAN](https://www.majaguitares.fr/)
 
 ## 26 - Drôme
 
