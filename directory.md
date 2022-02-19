@@ -185,6 +185,7 @@
 
 ## T
 
+* [Tampco](https://tampco.fr/fr/11-pedales-d-effet)
 * [Ten Fifteen (10:15)](http://www.tenfifteen.fr/)
 * [Tep's Art (amplification, pdédales, ...)](https://www.tepsart.com/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
