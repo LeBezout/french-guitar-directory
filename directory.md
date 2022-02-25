@@ -190,6 +190,7 @@
 * [Tep's Art (amplification, pdédales, ...)](https://www.tepsart.com/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
 * [Tornade MS Pickups](https://www.tornademspickups.com/)
+* [Twelve Assistant](https://www.twelve-assistant.com/)
 * [Two Notes](https://www.two-notes.com/fr)
 
 ## U
