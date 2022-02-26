@@ -109,6 +109,7 @@
 ### Pedalboards
 
 * [Marty's Pedalboard](https://www.facebook.com/Marty.Pedalboard/)
+* [Rhuitsept](https://www.rhuitsept.fr/)
 
 ### Médiators
 
