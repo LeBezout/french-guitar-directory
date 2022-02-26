@@ -165,6 +165,7 @@
 * [Laurent Rousseau - formations / cours](https://www.youtube.com/channel/UCmdgTiewxukvjKmZ_UhVSRA)
 * [Rémige Design](http://remigedesign.fr/)
 * [Rétro Tone](https://retro-tone.com/produit/mk3/)
+* [Rhuitsept - le pedalboard artisanal](https://www.rhuitsept.fr/)
 * [Riki le plectrier - médiators](https://riki-le-plectrier.eu/fr/)
 * [Kévin Roche - formations](http://www.kevinroche.fr/formation.html)
 
