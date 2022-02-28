@@ -31,6 +31,7 @@
 ## 22 - Côtes d'Armor
 
 * [Maja Guitares - Maxime JAN](https://www.majaguitares.fr/)
+* [DasViken](https://dasviken.com/)
 
 ## 26 - Drôme
 
