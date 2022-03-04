@@ -90,6 +90,7 @@
 ## 59 - Nord
 
 * [Richard Baudry Guitars](https://www.facebook.com/Baudryguitars)
+* [Cosmik Guitare - Frank Bolaers](https://cosmikguitare.com/)
 * [Evasion Guitare](https://evasionguitare.fr/)
 * [Franck Claise](http://configurateur.claise-guitares.com/)
 * [Germain Lewandowski](https://germainlewandowski.wixsite.com/luthierglguitars)
