@@ -42,6 +42,7 @@
 * [La carte musique - revendeur](https://www.lacartemusique.fr/)
 * [Campus Musique Vauréal - cours](https://www.facebook.com/campusmusiquevaureal/)
 * [CBpickups](https://www.cbpickups.com/)
+* [Cigar Box Music](http://cigarboxmusic.fr/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
 * [CM-Effects](https://www.facebook.com/CMeffects/)
 * [Collision Devices](https://collisiongears.com/?lang=fr)
