@@ -48,6 +48,7 @@
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [Wild Custom](https://www.wildcustomguitars.com/fr/)
 * [Luxguitars (Cale de manche de guitare)](https://www.luxguitars.com/)
+* [Cigar Box Music](http://cigarboxmusic.fr/)
 * [...autres luthiers](luthiers.md)
 
 ## Amplis
