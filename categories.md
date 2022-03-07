@@ -110,6 +110,7 @@
 
 ### Pedalboards
 
+* [Electric Wood Company](https://electricwoodcompany.com/)
 * [Marty's Pedalboard](https://www.facebook.com/Marty.Pedalboard/)
 * [Rhuitsept](https://www.rhuitsept.fr/)
 
