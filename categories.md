@@ -116,6 +116,7 @@
 
 ### Médiators
 
+* [Médiators Dugain](http://dugain-picks.com/)
 * [Riki le plectrier](https://riki-le-plectrier.eu/fr/)
 * [Le niglo](https://mediators-le-niglo.fr/)
 * [Valley Picks](https://www.valleypicks.com/asym%C3%A9trique)
