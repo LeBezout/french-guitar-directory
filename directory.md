@@ -64,6 +64,7 @@
 
 * [Echo d'artistes](https://www.echodartistes.com/)
 * [Eden Lutherie - Didier Duboscq](http://www.edenlutherie.com/)
+* [Electric Wood Company](https://electricwoodcompany.com/)
 * [Emma Music - pièces détachées](https://www.emma-music.com/)
 * [Enkore Arts](https://enkore-arts.net/)
 * [Euterpe Custom Shop - micros](https://euterpeguitare.com)
