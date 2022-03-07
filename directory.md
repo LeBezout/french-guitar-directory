@@ -58,6 +58,7 @@
 * [Doc Music Station - effets](https://docmusicstation.fr/fr/autres/39-mystere-3172668170450.html)
 * [Doktor Volox](https://www.doktorvoloxguitars.com/)
 * [Dolmen Effects](https://www.facebook.com/Dolmen-Effects-104507824488899/)
+* [Jean-Charles Dugain - Médiators](http://dugain-picks.com/)
 * [Dulcie - Guitare de voyage](https://shop.hemann.fr/categorie/dulcies/)
 
 ## E
