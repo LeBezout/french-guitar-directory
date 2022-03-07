@@ -106,6 +106,7 @@
 ###  Alimentations
 
 * [Anasounds](https://anasounds.com/fr/k-plus-power-source/)
+* [DESS Equipement](https://www.dess-equipement.com/produits/alimentation-multi-sorties/)
 
 ### Pedalboards
 
