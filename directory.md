@@ -115,7 +115,8 @@
 
 * [Kauffer Wood's Mechanic](https://www.kauffer.eu/)
 * [Kelt - amplification](https://www.keltamplification.com/)
-* [Kernom](https://ridge.kernom.com/)
+* [Kernom - effets](https://ridge.kernom.com/)
+* [Keyztone - effets](http://keyztone.com/fr/accueil/)
 
 ## L
 
