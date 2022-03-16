@@ -193,7 +193,8 @@
 
 * [Tampco](https://tampco.fr/fr/11-pedales-d-effet)
 * [Ten Fifteen (10:15)](http://www.tenfifteen.fr/)
-* [Tep's Art (amplification, pdédales, ...)](https://www.tepsart.com/)
+* [Tep's Art - amplification, pdédales, ...](https://www.tepsart.com/)
+* [Thrilltone - effets](http://thrilltone.fr/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
 * [Tornade MS Pickups](https://www.tornademspickups.com/)
 * [Twelve Assistant](https://www.twelve-assistant.com/)
