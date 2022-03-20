@@ -62,6 +62,7 @@
 * [Enkore Arts](https://enkore-arts.net/)
 * [P.M.S électronique (réparation, entretien)](http://pms.elec.free.fr/index.html)
 * [Tep's Art](https://www.tepsart.com/)
+* [Zolar Engineering (baffle/enceinte/cabinet)](http://www.zolar-engineering.com/)
 
 ## Micros
 
