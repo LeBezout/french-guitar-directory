@@ -33,6 +33,7 @@
   * Livre : _Mes guitares #2_
 * [Blue Cat Audio - traitements audio](https://www.bluecataudio.com/Main/Home/)
 * [BO Effects](https://www.bo-effects.com/accueil/)
+* [Philippe Bosset - Cordes](http://www.philippebosset.com/)
 * Réda Boucher et Jules Btrx :
   * Livre : [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare!](https://fr.ulule.com/la-chelouterie-guitaristique/)
 * [Constant Bourgeois - sangles](https://straps.constant-bourgeois.com/fr/)
