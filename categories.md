@@ -144,6 +144,10 @@
 
 * [Armonics](https://armonics.fr/)
 
+### Pickguardss personnalisés
+
+* [Dany Custom Pickguards](https://www.facebook.com/danycustompickguards)
+
 ## Presse, livres et théorie musicale
 
 ### Presse / Magazines
