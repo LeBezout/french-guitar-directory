@@ -127,6 +127,7 @@
 
 ### Cordes
 
+* [Philippe Bosset](http://www.philippebosset.com/)
 * [Savarez](https://www.savarez.fr/)
 * [Skull Strings](http://www.skullstrings.com/a-propos/)
 
