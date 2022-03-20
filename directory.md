@@ -51,6 +51,7 @@
 
 ## D
 
+* [Dany Custom Pickguards](https://www.facebook.com/danycustompickguards)
 * [Darius Guitarz](https://www.dariusguitarz.com/)
 * [De Leeuw Guitars](http://www.deleeuw-guitars.com/)
 * [DESS Equipement - Switching & MIDI System Guitar](https://www.dess-equipement.com/)
