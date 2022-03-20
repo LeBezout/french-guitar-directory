@@ -107,6 +107,8 @@
 
 ## I
 
+* [IT-11 Aduio - Amplification et pédales](http://www.it11audio.com/)
+
 ## J
 
 * [Jaha Guitars - pièces détachées](https://jahaguitars.com/)
