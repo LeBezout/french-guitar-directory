@@ -223,6 +223,7 @@
 
 ## Z
 
+* [Zolar Engineering - baffle/enceinte/cabinet](http://www.zolar-engineering.com/)
 * [Zorg Effects](http://www.zorgeffects.com/)
 * [Sebastien Zunino - formations / cours](https://www.sebastienzunino.com/)
 
