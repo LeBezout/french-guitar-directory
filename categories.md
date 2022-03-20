@@ -63,7 +63,8 @@
 * [P.M.S électronique (réparation, entretien)](http://pms.elec.free.fr/index.html)
 * [Tep's Art](https://www.tepsart.com/)
 * [Zolar Engineering (baffle/enceinte/cabinet)](http://www.zolar-engineering.com/)
-
+* [IT-11 Aduio](http://www.it11audio.com/)
+* 
 ## Micros
 
 * [Le micro custom](https://lemicrocustom.fr/)
@@ -104,6 +105,7 @@
 * [Glou Glou](https://glou-glou.org/)
 * [Keyztone](http://keyztone.com/fr/accueil/)
 * [Thrilltone](http://thrilltone.fr/)
+* [IT-11 Aduio](http://www.it11audio.com/)
 
 ## Accessoires
 
