@@ -65,6 +65,7 @@
 
 ## 35 - Ile-et-Vilaine
 
+* [Kopo](https://www.kopo.fr/)
 * [Tom Marceau](https://www.marceauguitars.com/)
 
 ## 36 - Indre
@@ -145,5 +146,6 @@
 ## 94 - Val-de-Marne
 
 * [10:15](https://www.facebook.com/1015tenfifteen/)
+* [Bo'Mo](https://bomoguitars.com/)
 
 :point_left: [Retour à l'index](index.md)
