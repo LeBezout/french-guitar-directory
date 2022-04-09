@@ -136,6 +136,7 @@
 ### Sangles
 
 * [Constant Bourgeois](https://straps.constant-bourgeois.com/fr/)
+* [Tom's Vintage Straps](https://www.tomsvintagestraps.com/)
 
 ### Câbles et Jack
 
