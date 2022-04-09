@@ -200,6 +200,7 @@
 * [Tep's Art - amplification, pdédales, ...](https://www.tepsart.com/)
 * [Thrilltone - effets](http://thrilltone.fr/)
 * [Tocxic Instruments](https://www.tocxic-instruments.com/)
+* [Tom's Vintage Straps](https://www.tomsvintagestraps.com/)
 * [Tornade MS Pickups](https://www.tornademspickups.com/)
 * [Twelve Assistant](https://www.twelve-assistant.com/)
 * [Two Notes](https://www.two-notes.com/fr)
