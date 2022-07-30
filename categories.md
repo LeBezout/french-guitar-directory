@@ -258,5 +258,6 @@
 * [Festival - La Guitare à Bacchus (33)](https://www.facebook.com/festivallaguitareabacchus)
 * [Salon de la Belle Guitare (92)](https://www.facebook.com/salondelabelleguitare/)
 * [Paris Guitar Festival (92)](https://www.facebook.com/parisguitarfestival/)
+* [Festival Pause Guitare d'Albi (81)](https://www.pauseguitare.net/)
 
 :point_left: [Retour à l'index](index.md)
