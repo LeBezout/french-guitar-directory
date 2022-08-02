@@ -106,6 +106,7 @@
 * [Keyztone](http://keyztone.com/fr/accueil/)
 * [Thrilltone](http://thrilltone.fr/)
 * [IT-11 Aduio](http://www.it11audio.com/)
+* [Audiolithe](http://audiolithefx.com/fr/home-fr/)
 
 ## Accessoires
 
