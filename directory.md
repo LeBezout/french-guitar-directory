@@ -21,6 +21,7 @@
 * [Asyllum Pickups](https://asyllumpickups.com)
 * [L'atelier son - câbles haut de gamme](https://www.latelierson.com/)
 * [Audiophonics - traitements et matériels audio](https://www.audiophonics.fr/)
+* [Audiolithe](http://audiolithefx.com/fr/home-fr/)
 
 ## B
 
