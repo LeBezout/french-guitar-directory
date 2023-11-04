@@ -46,6 +46,7 @@
 * [Echo d'artistes](https://www.echodartistes.com/)
 * [Barbe Guitares et Lutherie](https://www.facebook.com/Barbeguitares/)
 * [Marine Pacaut](https://www.facebook.com/marine.pacaut.lutherie/)
+* [Frederic Aubailly](https://www.aubailly-guitars.com/)
 
 ## 32 - Gers
 
@@ -134,6 +135,7 @@
 ## 81 - Tarn
 
 * [Darius Guitarz](https://www.dariusguitarz.com/)
+* [Les Luthiers de Limoilou](https://luthiersdelimoilou.fr/)
 
 ## 84 - Vaucluse
 
