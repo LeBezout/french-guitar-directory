@@ -142,6 +142,7 @@
 ## 87 - Haute Vienne
 
 * [Ivan Degtiarev](https://www.ivan-degtiarev.com/)
+* [Jan Degtiarev](https://www.jan-degtiarev.com/)
 
 ## 88 - Vosges
 
