@@ -64,6 +64,7 @@
 * [Tep's Art](https://www.tepsart.com/)
 * [Zolar Engineering (baffle/enceinte/cabinet)](http://www.zolar-engineering.com/)
 * [IT-11 Aduio](http://www.it11audio.com/)
+* [Capacity Waves](https://capacitivewaves.rocks/)
 
 ## Micros
 
