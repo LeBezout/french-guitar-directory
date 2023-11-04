@@ -43,6 +43,7 @@
 
 * [La carte musique - revendeur](https://www.lacartemusique.fr/)
 * [Campus Musique Vauréal - cours](https://www.facebook.com/campusmusiquevaureal/)
+* [Capacity Waves - amplification](https://capacitivewaves.rocks/)
 * [CBpickups](https://www.cbpickups.com/)
 * [Cigar Box Music](http://cigarboxmusic.fr/)
 * [Claise Guitars / Franck Claise](http://configurateur.claise-guitares.com/)
