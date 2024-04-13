@@ -135,10 +135,11 @@
 * [Savarez](https://www.savarez.fr/)
 * [Skull Strings](http://www.skullstrings.com/a-propos/)
 
-### Sangles
+### Courroies / Sangles
 
 * [Constant Bourgeois](https://straps.constant-bourgeois.com/fr/)
 * [Tom's Vintage Straps](https://www.tomsvintagestraps.com/)
+* [BG France](https://bgfrance.com/fr/335-cordes)
 
 ### Câbles et Jack
 
