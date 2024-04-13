@@ -28,6 +28,7 @@
 * [Bassiste Magazine](https://www.facebook.com/bassistemagazine/)
 * [Benedetti Pickups](https://www.benedettipickups.com/)
 * [BD Custom - amplification](http://www.bdguitarsservice.com/amplificateurs-bd-custom/)
+* [BG France - courroies](https://bgfrance.com/fr/335-cordes)
 * Emmanuel Bighelli :
   * Livre : [_Paroles et guitares de luthiers_](https://www.facebook.com/Paroles-Guitares-de-Luthiers-842613685852964/)
   * Livre : _Mes guitares_
