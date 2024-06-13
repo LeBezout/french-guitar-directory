@@ -13,9 +13,10 @@
   * [Pedalboards](#pedalboards)
   * [Médiators](#médiators)
   * [Cordes](#cordes)
-  * [Sangles](#sangles)
+  * [Sangles](#courroies--sangles)
   * [Câbles et Jack](#câbles-et-jack)
   * [Produits d'entretien](#produits-dentretien)
+  * [Pickguards](#pickguards)
 * [Presse, livres et théorie musicale](#presse-livres-et-théorie-musicale)
   * [Presse / Magazines](#presse--magazines)
   * [Théorie musicale](#théorie-musicale)
@@ -151,9 +152,9 @@
 
 * [Armonics](https://armonics.fr/)
 
-### Pickguardss personnalisés
+### Pickguards
 
-* [Dany Custom Pickguards](https://www.facebook.com/danycustompickguards)
+* [Dany Custom Pickguards](https://www.instagram.com/danycustompickguards/)
 
 ## Presse, livres et théorie musicale
 
