@@ -39,6 +39,7 @@
 * Réda Boucher et Jules Btrx :
   * Livre : [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare!](https://fr.ulule.com/la-chelouterie-guitaristique/)
 * [Constant Bourgeois - sangles](https://straps.constant-bourgeois.com/fr/)
+* [Bruzz Engraver - gravure sur Pickguards](https://www.facebook.com/bruzzengraver)
 
 ## C
 
