@@ -155,6 +155,7 @@
 ### Pickguards
 
 * [Dany Custom Pickguards](https://www.instagram.com/danycustompickguards/)
+* [Bruzz Engraver](https://www.facebook.com/bruzzengraver)
 
 ## Presse, livres et théorie musicale
 
