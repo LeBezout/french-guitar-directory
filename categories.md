@@ -79,7 +79,7 @@
 * [CBpickups](https://www.cbpickups.com/)
 * [Benedetti Pickups](https://www.benedettipickups.com/)
 
-##  Pédales d'effet
+## Pédales d'effet
 
 * [Anasounds](https://anasounds.com/fr/)
 * [ALH Effects](https://www.alh-effects.fr)
@@ -112,7 +112,7 @@
 
 ## Accessoires
 
-###  Alimentations
+### Alimentations
 
 * [Anasounds](https://anasounds.com/fr/k-plus-power-source/)
 * [DESS Equipement](https://www.dess-equipement.com/produits/alimentation-multi-sorties/)
@@ -141,6 +141,8 @@
 * [Constant Bourgeois](https://straps.constant-bourgeois.com/fr/)
 * [Tom's Vintage Straps](https://www.tomsvintagestraps.com/)
 * [BG France](https://bgfrance.com/fr/335-cordes)
+* [ML-Sellier](https://www.ml-sellier.fr/produit/sangle-de-guitare-en-cuir-artisanale/)
+* [Anne-Cécile création](https://creationacc.com/collections/sangle-de-guitare)
 
 ### Câbles et Jack
 
@@ -179,6 +181,10 @@
 * [_Guitar Talk_ par Christian Séguret](https://gaelis-editions.com/guitar-talk/)
 * [_La Chelouterie Guitaristique_ - La BD qui t'apprend la guitare! par Réda Boucher et Jules Btrx](https://fr.ulule.com/la-chelouterie-guitaristique/)
 * [Livre _Guitare, un art de vivre_ par Michaël Levivier](https://www.editionsepa.fr/epa/musique/guitare-un-art-de-vivre-9782376712688)
+
+### Habillement
+
+* [_EADG_ - Vêtements pour bassistes](https://www.eadg.clothing/)
 
 ### Posters
 

@@ -22,6 +22,7 @@
 * [L'atelier son - câbles haut de gamme](https://www.latelierson.com/)
 * [Audiophonics - traitements et matériels audio](https://www.audiophonics.fr/)
 * [Audiolithe](http://audiolithefx.com/fr/home-fr/)
+* [Anne-Cécile création - Sangles](https://creationacc.com/collections/sangle-de-guitare)
 
 ## B
 
@@ -75,6 +76,7 @@
 * [Emma Music - pièces détachées](https://www.emma-music.com/)
 * [Enkore Arts](https://enkore-arts.net/)
 * [Euterpe Custom Shop - micros](https://euterpeguitare.com)
+* [_EADG_ - Vêtements pour bassistes](https://www.eadg.clothing/)
 
 ## F
 
@@ -149,6 +151,7 @@
   * [_Guitar Cook Book_ et autres antisèches musicales](https://morloteditions.com/)
 * [Le micro custom](https://lemicrocustom.fr/)
 * [MyGuitare - formations / cours](https://www.myguitare.com/cours-guitare-en-ligne)
+* [ML-Sellier - Sangle](https://www.ml-sellier.fr/produit/sangle-de-guitare-en-cuir-artisanale/)
 
 ## N
 
